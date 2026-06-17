@@ -1,0 +1,11 @@
+# 下载输出 (PDF)
+downloads/
+
+# 临时webp图片
+.photo_tmp/
+
+# Python
+__pycache__/
+
+# Claude工作目录
+.claude/
